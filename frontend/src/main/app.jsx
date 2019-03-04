@@ -1,4 +1,3 @@
-import '../common/tamplate/dependencies'
 import React from 'react'
 
 import Header from '../common/tamplate/header'

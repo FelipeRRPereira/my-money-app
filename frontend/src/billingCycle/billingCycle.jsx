@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { bindActionCreators } from 'redux'
 import { connect } from 'react-redux'
 
-import ContentHeader from '../common/tamplate/contentHeader'
-import Content from '../common/tamplate/content'
+import ContentHeader from '../common/template/contentHeader'
+import Content from '../common/template/content'
 import Tabs from '../common/tab/tabs'
 import TabsHeader from '../common/tab/tabsHeader'
 import TabsContent from '../common/tab/tabsContent'
